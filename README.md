@@ -24,5 +24,5 @@ $ python3 index.py
 
 ### License
 
-This Program is open-source and licensed under the [Apache License 2.0](LICENSE). 
+This Program is open-source and licensed under the under the [MIT License](LICENSE.md).
 
