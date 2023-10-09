@@ -16,7 +16,8 @@ Just  install the requirements and start the Program.
 
 ```shell
 $ git clone https://github.com/ChickenWizzard1/instapics
-$ pip install -r requirements.txt
+$ cd instapics
+$ pip3 install -r requirements.txt
 $ python3 index.py
 ```
 
